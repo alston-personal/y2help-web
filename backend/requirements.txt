@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yt-dlp
+faster-whisper
+google-generativeai
+python-dotenv
+pydantic
+moviepy
