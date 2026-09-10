@@ -4,3 +4,8 @@ memory
 memory/
 .agent
 .agent/
+
+.env
+*.env
+backend/.env
+backend/proxies.txt
