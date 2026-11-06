@@ -9,3 +9,6 @@ memory/
 *.env
 backend/.env
 backend/proxies.txt
+
+__pycache__/
+*.pyc
